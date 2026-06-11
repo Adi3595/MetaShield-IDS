@@ -1,0 +1,47 @@
+# MetaShield IDS - Training Configuration
+# Few-Shot Cybersecurity Threat Classification Using Meta-Learning
+
+model:
+  type: "prototypical"
+  input_dim: 78            # CIC-IDS2017 feature count (auto-detected)
+  hidden_dim: 256
+  embedding_dim: 128
+  distance: "bayesian"     # bayesian, hybrid, euclidean or cosine
+  dropout: 0.3
+
+training:
+  num_epochs: 50
+  learning_rate: 0.001
+  min_lr: 0.000001
+  weight_decay: 0.0001
+  patience: 15             # Early stopping patience
+  max_grad_norm: 5.0
+
+data:
+  data_dir: "data/archive"
+  cache_dir: "data/processed"
+  max_samples_per_class: 50000
+  n_way: 5                 # Number of classes per episode
+  k_shot: 5                # Support examples per class
+  query_size: 15            # Query examples per class
+  num_train_tasks: 1000     # Training episodes
+  num_val_tasks: 200        # Validation episodes
+  num_test_tasks: 500       # Test episodes
+  test_split: 0.2
+
+evaluation:
+  k_shots: [1, 3, 5, 10]   # K-shot sweep values
+  n_eval_episodes: 200      # Episodes per K-shot evaluation
+  baseline_trials: 50       # Trials per baseline method
+  tsne_samples: 2000        # Samples for t-SNE plot
+
+experiment:
+  seed: 42
+  results_dir: "results"
+  checkpoint_dir: "checkpoints"
+
+api:
+  host: "0.0.0.0"
+  port: 5000
+  workers: 4
+  reload: true

@@ -1,0 +1,834 @@
+[
+  {
+    "time": "02:32:37",
+    "attack": "ZeroDay",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\ud83d\udea8 Threat detected: 'ZeroDay' \u2014 SYSTEM AUTO-UPGRADED TO IPS MODE (Blocked)"
+  },
+  {
+    "time": "02:32:38",
+    "attack": "ZeroDay",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'ZeroDay' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "02:32:39",
+    "attack": "ZeroDay",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'ZeroDay' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "02:32:40",
+    "attack": "ZeroDay",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'ZeroDay' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "02:32:42",
+    "attack": "ZeroDay",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'ZeroDay' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "02:32:43",
+    "attack": "ZeroDay",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'ZeroDay' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "02:32:44",
+    "attack": "ZeroDay",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'ZeroDay' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "02:32:45",
+    "attack": "ZeroDay",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'ZeroDay' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "02:32:46",
+    "attack": "ZeroDay",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'ZeroDay' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "02:32:49",
+    "attack": "ZeroDay",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'ZeroDay' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "02:32:49",
+    "attack": "ZeroDay",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'ZeroDay' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "02:32:52",
+    "attack": "ZeroDay",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'ZeroDay' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "02:32:53",
+    "attack": "ZeroDay",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'ZeroDay' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "02:33:18",
+    "attack": "ZeroDay",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\ud83d\udea8 Threat detected: 'ZeroDay' \u2014 SYSTEM AUTO-UPGRADED TO IPS MODE (Blocked)"
+  },
+  {
+    "time": "02:33:22",
+    "attack": "ZeroDay",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'ZeroDay' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "02:33:30",
+    "attack": "ZeroDay",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'ZeroDay' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "02:33:34",
+    "attack": "ZeroDay",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'ZeroDay' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "02:33:56",
+    "attack": "ZeroDay",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\ud83d\udea8 Threat detected: 'ZeroDay' \u2014 SYSTEM AUTO-UPGRADED TO IPS MODE (Blocked)"
+  },
+  {
+    "time": "02:34:01",
+    "attack": "ZeroDay",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'ZeroDay' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "02:34:09",
+    "attack": "ZeroDay",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'ZeroDay' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "02:34:13",
+    "attack": "ZeroDay",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'ZeroDay' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "02:36:16",
+    "attack": "ZeroDay",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\ud83d\udea8 Threat detected: 'ZeroDay' \u2014 SYSTEM AUTO-UPGRADED TO IPS MODE (Blocked)"
+  },
+  {
+    "time": "02:36:18",
+    "attack": "ZeroDay",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'ZeroDay' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "02:36:20",
+    "attack": "ZeroDay",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'ZeroDay' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "02:36:22",
+    "attack": "ZeroDay",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'ZeroDay' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "02:36:24",
+    "attack": "ZeroDay",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'ZeroDay' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "02:36:26",
+    "attack": "ZeroDay",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'ZeroDay' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "02:36:28",
+    "attack": "ZeroDay",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'ZeroDay' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "02:36:30",
+    "attack": "ZeroDay",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'ZeroDay' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "02:36:32",
+    "attack": "ZeroDay",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'ZeroDay' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "02:40:46",
+    "attack": "PortScan-Stealth",
+    "confidence": 0.9997,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\ud83d\udea8 Threat detected: 'PortScan-Stealth' \u2014 SYSTEM AUTO-UPGRADED TO IPS MODE (Blocked)"
+  },
+  {
+    "time": "02:40:51",
+    "attack": "PortScan-Stealth",
+    "confidence": 0.9997,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'PortScan-Stealth' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "02:40:59",
+    "attack": "Botnet-Zeus",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\ud83d\udea8 Threat detected: 'Botnet-Zeus' \u2014 SYSTEM AUTO-UPGRADED TO IPS MODE (Blocked)"
+  },
+  {
+    "time": "02:41:03",
+    "attack": "Botnet-Zeus",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'Botnet-Zeus' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "02:41:21",
+    "attack": "BruteForce-SSH",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\ud83d\udea8 Threat detected: 'BruteForce-SSH' \u2014 SYSTEM AUTO-UPGRADED TO IPS MODE (Blocked)"
+  },
+  {
+    "time": "02:43:16",
+    "attack": "PortScan-Stealth",
+    "confidence": 0.9995,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\ud83d\udea8 Threat detected: 'PortScan-Stealth' \u2014 SYSTEM AUTO-UPGRADED TO IPS MODE (Blocked)"
+  },
+  {
+    "time": "02:43:20",
+    "attack": "PortScan-Stealth",
+    "confidence": 0.9995,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'PortScan-Stealth' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "02:43:28",
+    "attack": "PortScan-TCP-SYN",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\ud83d\udea8 Threat detected: 'PortScan-TCP-SYN' \u2014 SYSTEM AUTO-UPGRADED TO IPS MODE (Blocked)"
+  },
+  {
+    "time": "02:43:32",
+    "attack": "PortScan-TCP-SYN",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'PortScan-TCP-SYN' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "03:08:29",
+    "attack": "PortScan-TCP-SYN",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\ud83d\udea8 Threat detected: 'PortScan-TCP-SYN' \u2014 SYSTEM AUTO-UPGRADED TO IPS MODE (Blocked)"
+  },
+  {
+    "time": "03:08:30",
+    "attack": "PortScan-TCP-SYN",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'PortScan-TCP-SYN' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "03:08:31",
+    "attack": "PortScan-TCP-SYN",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'PortScan-TCP-SYN' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "03:08:32",
+    "attack": "PortScan-TCP-SYN",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'PortScan-TCP-SYN' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "03:08:34",
+    "attack": "PortScan-TCP-SYN",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'PortScan-TCP-SYN' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "03:08:35",
+    "attack": "PortScan-TCP-SYN",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'PortScan-TCP-SYN' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "03:08:36",
+    "attack": "PortScan-TCP-SYN",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'PortScan-TCP-SYN' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "03:08:37",
+    "attack": "PortScan-TCP-SYN",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'PortScan-TCP-SYN' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "03:08:38",
+    "attack": "PortScan-TCP-SYN",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'PortScan-TCP-SYN' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "03:08:39",
+    "attack": "PortScan-TCP-SYN",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'PortScan-TCP-SYN' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "03:09:10",
+    "attack": "PortScan-TCP-SYN",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\ud83d\udea8 Threat detected: 'PortScan-TCP-SYN' \u2014 SYSTEM AUTO-UPGRADED TO IPS MODE (Blocked)"
+  },
+  {
+    "time": "03:09:14",
+    "attack": "PortScan-TCP-SYN",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'PortScan-TCP-SYN' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "03:09:22",
+    "attack": "PortScan-TCP-SYN",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'PortScan-TCP-SYN' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "03:09:26",
+    "attack": "PortScan-TCP-SYN",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'PortScan-TCP-SYN' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "03:09:48",
+    "attack": "PortScan-TCP-SYN",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\ud83d\udea8 Threat detected: 'PortScan-TCP-SYN' \u2014 SYSTEM AUTO-UPGRADED TO IPS MODE (Blocked)"
+  },
+  {
+    "time": "03:09:52",
+    "attack": "PortScan-TCP-SYN",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'PortScan-TCP-SYN' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "03:15:48",
+    "attack": "PortScan-TCP-SYN",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\ud83d\udea8 Threat detected: 'PortScan-TCP-SYN' \u2014 SYSTEM AUTO-UPGRADED TO IPS MODE (Blocked)"
+  },
+  {
+    "time": "03:15:52",
+    "attack": "PortScan-TCP-SYN",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'PortScan-TCP-SYN' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "03:16:00",
+    "attack": "PortScan-TCP-SYN",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\ud83d\udea8 Threat detected: 'PortScan-TCP-SYN' \u2014 SYSTEM AUTO-UPGRADED TO IPS MODE (Blocked)"
+  },
+  {
+    "time": "03:16:04",
+    "attack": "PortScan-TCP-SYN",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'PortScan-TCP-SYN' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "03:16:29",
+    "attack": "Botnet-Ares",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\ud83d\udea8 Threat detected: 'Botnet-Ares' \u2014 SYSTEM AUTO-UPGRADED TO IPS MODE (Blocked)"
+  },
+  {
+    "time": "03:16:33",
+    "attack": "Botnet-Ares",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'Botnet-Ares' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "03:16:41",
+    "attack": "Botnet-Ares",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\ud83d\udea8 Threat detected: 'Botnet-Ares' \u2014 SYSTEM AUTO-UPGRADED TO IPS MODE (Blocked)"
+  },
+  {
+    "time": "03:16:45",
+    "attack": "Botnet-Ares",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'Botnet-Ares' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "03:17:19",
+    "attack": "Botnet-Ares",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\ud83d\udea8 Threat detected: 'Botnet-Ares' \u2014 SYSTEM AUTO-UPGRADED TO IPS MODE (Blocked)"
+  },
+  {
+    "time": "03:17:23",
+    "attack": "Botnet-Ares",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'Botnet-Ares' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "03:18:26",
+    "attack": "Botnet-Ares",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\ud83d\udea8 Threat detected: 'Botnet-Ares' \u2014 SYSTEM AUTO-UPGRADED TO IPS MODE (Blocked)"
+  },
+  {
+    "time": "03:18:31",
+    "attack": "Botnet-Ares",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'Botnet-Ares' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "03:19:03",
+    "attack": "BruteForce-SSH",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\ud83d\udea8 Threat detected: 'BruteForce-SSH' \u2014 SYSTEM AUTO-UPGRADED TO IPS MODE (Blocked)"
+  },
+  {
+    "time": "03:19:07",
+    "attack": "BruteForce-SSH",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'BruteForce-SSH' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "03:19:15",
+    "attack": "BruteForce-SSH",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\ud83d\udea8 Threat detected: 'BruteForce-SSH' \u2014 SYSTEM AUTO-UPGRADED TO IPS MODE (Blocked)"
+  },
+  {
+    "time": "03:19:19",
+    "attack": "BruteForce-SSH",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'BruteForce-SSH' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "03:23:40",
+    "attack": "WebAttack-SQLi",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\ud83d\udea8 Threat detected: 'WebAttack-SQLi' \u2014 SYSTEM AUTO-UPGRADED TO IPS MODE (Blocked)"
+  },
+  {
+    "time": "03:23:44",
+    "attack": "WebAttack-SQLi",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'WebAttack-SQLi' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "03:23:52",
+    "attack": "WebAttack-SQLi",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\ud83d\udea8 Threat detected: 'WebAttack-SQLi' \u2014 SYSTEM AUTO-UPGRADED TO IPS MODE (Blocked)"
+  },
+  {
+    "time": "03:23:56",
+    "attack": "WebAttack-SQLi",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'WebAttack-SQLi' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "03:27:21",
+    "attack": "Infiltration-Exploit",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\ud83d\udea8 Threat detected: 'Infiltration-Exploit' \u2014 SYSTEM AUTO-UPGRADED TO IPS MODE (Blocked)"
+  },
+  {
+    "time": "03:27:25",
+    "attack": "Infiltration-Exploit",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'Infiltration-Exploit' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "03:27:33",
+    "attack": "Infiltration-Exploit",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\ud83d\udea8 Threat detected: 'Infiltration-Exploit' \u2014 SYSTEM AUTO-UPGRADED TO IPS MODE (Blocked)"
+  },
+  {
+    "time": "03:27:37",
+    "attack": "Infiltration-Exploit",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'Infiltration-Exploit' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "03:29:07",
+    "attack": "Stealth-Worm",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\ud83d\udea8 Threat detected: 'Stealth-Worm' \u2014 SYSTEM AUTO-UPGRADED TO IPS MODE (Blocked)"
+  },
+  {
+    "time": "03:29:09",
+    "attack": "Stealth-Worm",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'Stealth-Worm' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "03:29:12",
+    "attack": "Stealth-Worm",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'Stealth-Worm' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "03:29:14",
+    "attack": "Stealth-Worm",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'Stealth-Worm' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "03:29:16",
+    "attack": "Stealth-Worm",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'Stealth-Worm' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "03:29:19",
+    "attack": "Stealth-Worm",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'Stealth-Worm' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "03:29:21",
+    "attack": "Stealth-Worm",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'Stealth-Worm' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "03:29:23",
+    "attack": "Stealth-Worm",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'Stealth-Worm' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "03:29:26",
+    "attack": "Stealth-Worm",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'Stealth-Worm' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "03:29:28",
+    "attack": "Stealth-Worm",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'Stealth-Worm' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "03:29:31",
+    "attack": "Stealth-Worm",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'Stealth-Worm' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "03:29:35",
+    "attack": "Stealth-Worm",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'Stealth-Worm' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "03:29:49",
+    "attack": "Stealth-Worm",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'Stealth-Worm' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "03:29:50",
+    "attack": "Stealth-Worm",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'Stealth-Worm' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "03:29:51",
+    "attack": "Stealth-Worm",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'Stealth-Worm' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "03:40:44",
+    "attack": "Stealth-Worm",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\ud83d\udea8 Threat detected: 'Stealth-Worm' \u2014 SYSTEM AUTO-UPGRADED TO IPS MODE (Blocked)"
+  },
+  {
+    "time": "03:40:45",
+    "attack": "Stealth-Worm",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'Stealth-Worm' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "03:40:47",
+    "attack": "Stealth-Worm",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'Stealth-Worm' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "03:46:41",
+    "attack": "Stealth-Worm",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\ud83d\udea8 Threat detected: 'Stealth-Worm' \u2014 SYSTEM AUTO-UPGRADED TO IPS MODE (Blocked)"
+  },
+  {
+    "time": "03:46:43",
+    "attack": "Stealth-Worm",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'Stealth-Worm' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "03:46:44",
+    "attack": "Stealth-Worm",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'Stealth-Worm' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "12:08:33",
+    "attack": "BruteForce-SSH",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\ud83d\udea8 Threat detected: 'BruteForce-SSH' \u2014 SYSTEM AUTO-UPGRADED TO IPS MODE (Blocked)"
+  },
+  {
+    "time": "12:08:37",
+    "attack": "BruteForce-SSH",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'BruteForce-SSH' was seen before and is already BLOCKED. No impact on system."
+  },
+  {
+    "time": "12:08:46",
+    "attack": "BruteForce-SSH",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\ud83d\udea8 Threat detected: 'BruteForce-SSH' \u2014 SYSTEM AUTO-UPGRADED TO IPS MODE (Blocked)"
+  },
+  {
+    "time": "12:08:50",
+    "attack": "BruteForce-SSH",
+    "confidence": 1.0,
+    "severity": "critical",
+    "blocked": true,
+    "message": "\u26a0\ufe0f  Attack 'BruteForce-SSH' was seen before and is already BLOCKED. No impact on system."
+  }
+]

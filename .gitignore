@@ -1,0 +1,89 @@
+# =====================
+# Python
+# =====================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# =====================
+# Editors / OS
+# =====================
+.DS_Store
+Thumbs.db
+
+.vscode/
+*.code-workspace
+
+# Windows
+Desktop.ini
+
+# =====================
+# Project artifacts (do not commit)
+# =====================
+checkpoints/
+logs/
+results/
+notebooks/
+data/
+
+# Large/binary artifacts in case they appear
+*.pt
+*.pth
+*.ckpt
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# =====================
+# Secrets
+# =====================
+.env
+*.key
+*.pem
+*.crt
+*.csr
+
+# =====================
+# Cache files
+# =====================
+*.csv~
+*.json~
+*.log~
+
+test_*.py~
+
+test_*.py
+test*.py
+
+# --- Tests ---
+/tests/
+**/tests/   
+**/__tests__/
+**/*_test.py
+
+# --- Test artifacts ---
+*.tmp
+*.log
+*.out
+
+.bat
+
+
